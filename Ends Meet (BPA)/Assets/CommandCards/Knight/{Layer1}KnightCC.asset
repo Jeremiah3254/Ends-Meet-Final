@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90585d7ba7bb7b34c9a0a811b658d146, type: 3}
+  m_Name: '{Layer1}KnightCC'
+  m_EditorClassIdentifier: 
+  commandCardType: 010000000100000001000000010000000100000001000000010000000100000000000000000000000000000000000000000000000000000004000000
+  effectLayer: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  commandCardImageID: 0c0000000100000004000000060000000e00000002000000030000000f00000000000000000000000000000000000000000000000000000009000000
+  ccName:
+  - Damage Upgrade
+  - Attack Speed Upgrade
+  - Weapon Range Upgrade
+  - Vision Upgreade
+  - Movement Speed Upgrade
+  - Health Upgrade
+  - Health Regen Upgrade
+  - Mana Regen Upgrade
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Exit Upgrade Menu
+  ccDescription:
+  - Increases danage by 1
+  - Increase attack speed by 8%
+  - Increases weapon Range by 0.25
+  - Increase vision by 1.5
+  - Increase movement speed by 0.5
+  - Increase health by 15
+  - Increase health regen by 0.35
+  - Increase mana regen by 0.15
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Brings you back to the main character menu
+  ccCosts: 4b00000032000000640000007d0000005000000037000000730000000000000000000000000000000000000000000000000000000000000000000000
+  currentUpgrade: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  maxUpgrade: 100000000e000000040000000400000006000000320000000d0000000500000000000000000000000000000000000000000000000000000000000000
+  abilityRange:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  currentCD:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  maxCD:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0

@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90585d7ba7bb7b34c9a0a811b658d146, type: 3}
+  m_Name: '{Layer0}PeasantCC'
+  m_EditorClassIdentifier: 
+  commandCardType: 000000000000000000000000000000000000000000000000000000000000000000000000000000000200000000000000000000000000000004000000
+  effectLayer: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001000000
+  commandCardImageID: 000000000000000000000000000000000000000000000000000000000000000000000000000000000d00000000000000000000000000000007000000
+  ccName:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Right Hook
+  - 
+  - 
+  - 
+  - Upgrade Menu
+  ccDescription:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 'Damage: 1.25x base damage
+
+    Range: 1
+
+
+    Sends a swift right hook towards
+    the opponent dealing a burst of damage.'
+  - 
+  - 
+  - 
+  - Lists various upgrades in which you can purchase to improve your characters survivability.
+  ccCosts: 000000000000000000000000000000000000000000000000000000000000000000000000000000000f00000000000000000000000000000000000000
+  currentUpgrade: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  maxUpgrade: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  abilityRange:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0
+  currentCD:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 30
+  - 0
+  - 0
+  - 0
+  - 0
+  maxCD:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 30
+  - 0
+  - 0
+  - 0
+  - 0
